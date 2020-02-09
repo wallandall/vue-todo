@@ -1,6 +1,6 @@
 # todo
 
-This application is a basic demonstration of the Vue framework through the implementation of a ToDo application. An example of this application can be found here: [vue-todo.christopherwall.online](vue-todo.christopherwall.online)
+This application is a basic demonstration of the Vue framework through the implementation of a ToDo application. An example of this application can be found here: [https://vue-todo.christopherwall.online/](https://vue-todo.christopherwall.online/)
 
 ## Project setup
 
